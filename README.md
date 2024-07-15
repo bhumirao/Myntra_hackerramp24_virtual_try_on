@@ -10,4 +10,4 @@
 ## Usage
 - Just Click on `open in colab` button on top of this README file
 
-
+  For more info refer to pdf attached in files
